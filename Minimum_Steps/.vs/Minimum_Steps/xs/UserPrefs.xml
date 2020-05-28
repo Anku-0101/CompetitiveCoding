@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{CF338136-C2AA-4DB4-88DE-2BA2CA60DB14}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Minimum_Steps/Program.cs">
+    <Files>
+      <File FileName="Minimum_Steps/Program.cs" Line="30" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Minimum_Steps" expanded="True">
+            <Node name="Minimum_Steps" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Minimum__Steps PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

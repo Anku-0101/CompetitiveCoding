@@ -1,0 +1,12 @@
+/Users/ankuchoudhary/Projects/Minimum_Steps/Minimum_Steps/bin/Debug/netcoreapp3.1/Minimum_Steps.deps.json
+/Users/ankuchoudhary/Projects/Minimum_Steps/Minimum_Steps/bin/Debug/netcoreapp3.1/Minimum_Steps.runtimeconfig.json
+/Users/ankuchoudhary/Projects/Minimum_Steps/Minimum_Steps/bin/Debug/netcoreapp3.1/Minimum_Steps.runtimeconfig.dev.json
+/Users/ankuchoudhary/Projects/Minimum_Steps/Minimum_Steps/bin/Debug/netcoreapp3.1/Minimum_Steps.dll
+/Users/ankuchoudhary/Projects/Minimum_Steps/Minimum_Steps/bin/Debug/netcoreapp3.1/Minimum_Steps.pdb
+/Users/ankuchoudhary/Projects/Minimum_Steps/Minimum_Steps/obj/Debug/netcoreapp3.1/Minimum_Steps.csprojAssemblyReference.cache
+/Users/ankuchoudhary/Projects/Minimum_Steps/Minimum_Steps/obj/Debug/netcoreapp3.1/Minimum_Steps.csproj.CoreCompileInputs.cache
+/Users/ankuchoudhary/Projects/Minimum_Steps/Minimum_Steps/obj/Debug/netcoreapp3.1/Minimum_Steps.AssemblyInfoInputs.cache
+/Users/ankuchoudhary/Projects/Minimum_Steps/Minimum_Steps/obj/Debug/netcoreapp3.1/Minimum_Steps.AssemblyInfo.cs
+/Users/ankuchoudhary/Projects/Minimum_Steps/Minimum_Steps/obj/Debug/netcoreapp3.1/Minimum_Steps.dll
+/Users/ankuchoudhary/Projects/Minimum_Steps/Minimum_Steps/obj/Debug/netcoreapp3.1/Minimum_Steps.pdb
+/Users/ankuchoudhary/Projects/Minimum_Steps/Minimum_Steps/obj/Debug/netcoreapp3.1/Minimum_Steps.genruntimeconfig.cache
