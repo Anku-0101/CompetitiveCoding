@@ -1,3 +1,64 @@
+
+#include<bits/stdc++.h>
+using namespace std;
+ 
+int main()
+{
+	int n;
+	cin>>n;
+	int a[n], b[n];
+ 
+	int minNum = INT_MAX;
+	for(int i=0; i<n; i++)
+	{
+		cin>>a[i];
+		
+		if(a[i] < minNum) minNum = a[i];
+	}
+ 
+	for(int i =0 ; i<n; i++) 
+	{
+		cin>>b[i];
+		
+	}
+ 
+	int result=0; 
+ 
+	for(int i=0; i<n; i++)
+	{ 
+		if(a[i] == minNum) continue;
+ 
+		while(a[i] >= b[i] && b[i]!=0)
+		{
+			a[i] = a[i] - b[i];
+			result ++;
+			if(a[i] == minNum)
+			{
+				break;
+			}
+			if(minNum > a[i])
+			{
+				minNum = a[i];
+				i = -1;
+				break;
+			}
+ 
+		}
+		
+	}
+	    for(int i=0 ; i<n-1; i++)
+		{ 
+			if(a[i] != a[i+1])
+			{
+				cout<<-1;
+				return 0;
+			}
+		}
+		cout<<result;
+}
+
+
+/*
 using System;
 
 
@@ -85,3 +146,5 @@ class Solution
     
     }
 }
+
+*/
